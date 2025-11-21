@@ -1,3 +1,4 @@
+//write a function which multipy three numbers and call it by reference
 #include <stdio.h>
 void prod_value(int a,int b,int c)
 {
