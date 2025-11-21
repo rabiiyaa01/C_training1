@@ -15,7 +15,7 @@ void names(char first[],char last[],int sw)
     {
         full[i]=last[j];
         i++;
-        j++;int len=i+1;
+        j++;
     }
     printf("%s" ,full);
     int len=i+1;
