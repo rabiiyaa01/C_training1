@@ -25,7 +25,7 @@ void main()
         break;
     }
     {
-    printf("%s ", season);
+    printf("%dth month is %s ",m,season);
     }
 
 
